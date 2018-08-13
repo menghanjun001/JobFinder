@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named posix - imported by os, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named 'org.python' - imported by pickle, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named _winreg - imported by platform, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named java - imported by platform, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named 'java.lang' - imported by platform, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named termios - imported by tty, getpass, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named grp - imported by shutil, tarfile, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named org - imported by copy, C:\Users\Meng\Desktop\面试通过\项目\aa\jobSpider.py
+missing module named _scproxy - imported by urllib.request
